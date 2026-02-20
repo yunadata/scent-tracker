@@ -5,13 +5,14 @@ import os
 import time
 
 # --- CONFIGURATION ---
-# We track BROAD categories now, not specific scents.
+# I'm tracking BROAD categories now, not specific scents.
 # This casts a wide net to catch anything related to these words.
 SEED_TERMS = [
     "Perfume", "Fragrance", "Cologne", "Eau de Parfum",
     "Parfum", "Scent", "Body Mist",
     "Body Spray", "Fragrance Dupe", "eau de toilette",
-    "Perfume Dupe", "Long lasting perfume", "Hair mist"
+    "Perfume Dupe", "Long lasting perfume", "Hair mist",
+    "Perfume note", "Fragrance note", "Scent note"
 ]
 GEO = "US"
 TIMEFRAME = "now 7-d" # Look at the last 7 days for fast-moving trends
