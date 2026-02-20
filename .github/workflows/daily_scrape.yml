@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual run button
 
 permissions:
-  contents: write # Crucial: allows the bot to write to your repo
+  contents: write # Crucial: allows the bot to write to this repo
 
 jobs:
   scrape-and-commit:
