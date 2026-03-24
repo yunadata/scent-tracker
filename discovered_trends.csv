@@ -1,5 +1,6 @@
 date,trend_name,growth_score,seed_term
 2026-03-03,lancome idole nectar eau de parfum 100ml,134600,Parfum
+2026-03-24,happy eid,18750,Cologne
 2026-02-21,chyron,15200,Cologne
 2026-02-19,l occitane eau de toilette,13900,eau de toilette
 2026-02-17,chyron,12850,Cologne
@@ -14,235 +15,268 @@ date,trend_name,growth_score,seed_term
 2026-02-21,pharaoh cologne,2000,Cologne
 2026-03-02,destin balmain perfume,1950,Perfume
 2026-02-20,pharaoh cologne,1200,Cologne
-2026-02-27,fantasy fragrance company,850,Fragrance
 2026-02-26,fantasy fragrance company,850,Fragrance
+2026-02-27,fantasy fragrance company,850,Fragrance
 2026-03-01,balmain perfume,800,Perfume
 2026-03-02,balmain perfume,750,Perfume
-2026-03-22,nautica voyage eau de toilette spray men,700,eau de toilette
 2026-03-06,summer fridays perfume,700,Perfume
-2026-02-28,balmain perfume,650,Perfume
-2026-02-28,dream in silk perfume,650,Perfume
+2026-03-22,nautica voyage eau de toilette spray men,700,eau de toilette
 2026-03-14,only sunshine perfume,650,Perfume
-2026-03-03,fragrance crossword clue,600,Fragrance
-2026-03-05,summer fridays perfume,600,Perfume
+2026-02-28,dream in silk perfume,650,Perfume
+2026-02-28,balmain perfume,650,Perfume
 2026-02-24,fantasy fragrance company,600,Fragrance
+2026-03-05,summer fridays perfume,600,Perfume
+2026-03-03,fragrance crossword clue,600,Fragrance
 2026-02-23,pharaoh cologne,550,Cologne
 2026-03-21,nautica voyage eau de toilette spray men,550,eau de toilette
 2026-03-21,maison margiela replica jazz club eau de toilette,550,eau de toilette
 2026-03-22,maison margiela replica jazz club eau de toilette,500,eau de toilette
+2026-03-24,nautica voyage eau de toilette spray men,500,eau de toilette
 2026-03-18,ycz marine cologne,500,Cologne
+2026-03-03,summer fridays perfume,450,Perfume
+2026-03-02,giorgio armani code men sport eau de toilette spra,450,eau de toilette
 2026-03-22,bleu de chanel eau de toilette spray,450,eau de toilette
 2026-02-20,l occitane eau de toilette,450,eau de toilette
-2026-03-03,summer fridays perfume,450,Perfume
 2026-02-23,fantasy fragrance company,450,Fragrance
-2026-03-02,giorgio armani code men sport eau de toilette spra,450,eau de toilette
-2026-03-04,balmain perfume,400,Perfume
-2026-03-17,ycz marine cologne,400,Cologne
-2026-02-22,giorgio armani code men sport eau de toilette spra,400,eau de toilette
 2026-03-19,ycz marine cologne,400,Cologne
 2026-03-22,national fragrance day,400,Fragrance
+2026-03-17,ycz marine cologne,400,Cologne
+2026-03-04,balmain perfume,400,Perfume
+2026-02-22,giorgio armani code men sport eau de toilette spra,400,eau de toilette
 2026-02-20,burberry fragrance for him,400,Fragrance
-2026-02-17,l occitane eau de toilette,350,eau de toilette
 2026-03-20,ycz marine cologne,350,Cologne
-2026-02-17,burberry fragrance for him,300,Fragrance
-2026-03-20,chanel fragrance store,300,Fragrance
-2026-03-19,chanel fragrance store,300,Fragrance
+2026-03-24,national fragrance day,350,Fragrance
+2026-02-17,l occitane eau de toilette,350,eau de toilette
 2026-02-25,kirke cologne,300,Cologne
 2026-02-22,fantasy fragrance company,300,Fragrance
 2026-03-07,summer fridays perfume,300,Perfume
+2026-03-20,chanel fragrance store,300,Fragrance
+2026-02-17,burberry fragrance for him,300,Fragrance
 2026-03-21,ycz marine cologne,300,Cologne
-2026-03-22,ycz marine cologne,250,Cologne
+2026-03-19,chanel fragrance store,300,Fragrance
+2026-03-24,sol de janeiro,250,Hair mist
 2026-03-20,nautica voyage eau de toilette spray men,250,eau de toilette
+2026-03-22,ycz marine cologne,250,Cologne
 2026-03-07,giorgio armani code men sport eau de toilette spra,250,eau de toilette
 2026-03-15,only sunshine perfume,250,Perfume
-2026-03-02,nautica voyage eau de toilette spray men,200,eau de toilette
 2026-03-22,national fragrance day 2026,200,Fragrance
-2026-03-22,sol de janeiro,200,Hair mist
-2026-03-07,gucci bloom eau de toilette,200,eau de toilette
+2026-03-24,chanel chance eau tendre eau de toilette,200,eau de toilette
 2026-03-01,kirke cologne,200,Cologne
 2026-03-20,gucci bloom eau de toilette,200,eau de toilette
 2026-03-21,when is national fragrance day,200,Fragrance
+2026-03-02,nautica voyage eau de toilette spray men,200,eau de toilette
+2026-03-07,gucci bloom eau de toilette,200,eau de toilette
+2026-03-22,sol de janeiro,200,Hair mist
 2026-03-04,azzaro pour homme eau de toilette,190,eau de toilette
-2026-03-22,when is national fragrance day,180,Fragrance
 2026-03-15,eternal fragrance daphne,180,Fragrance
+2026-03-22,when is national fragrance day,180,Fragrance
 2026-02-22,orpheon eau de toilette,180,eau de toilette
-2026-03-04,nikos sculpture parfum,170,Parfum
 2026-03-03,nautica voyage eau de toilette spray men,170,eau de toilette
+2026-03-04,nikos sculpture parfum,170,Parfum
 2026-02-16,burberry fragrance for him,160,Fragrance
-2026-03-19,ycz cologne,150,Cologne
-2026-02-16,ysl 6 cologne,150,Cologne
-2026-03-18,ycz cologne,150,Cologne
-2026-03-19,nautica voyage eau de toilette spray men,150,eau de toilette
+2026-03-24,when is national fragrance day,160,Fragrance
 2026-03-06,lidl near me,150,Fragrance
 2026-02-27,side effect cologne,150,Cologne
+2026-02-16,ysl 6 cologne,150,Cologne
+2026-03-18,ycz cologne,150,Cologne
+2026-03-19,ycz cologne,150,Cologne
+2026-03-19,nautica voyage eau de toilette spray men,150,eau de toilette
 2026-03-20,valentino uomo born in roma coral fantasy eau de toilette,150,eau de toilette
-2026-02-21,l occitane eau de toilette,140,eau de toilette
-2026-02-23,orpheon eau de toilette,140,eau de toilette
+2026-03-24,national fragrance day 2026,140,Fragrance
 2026-03-08,gucci bloom eau de toilette,140,eau de toilette
+2026-02-23,orpheon eau de toilette,140,eau de toilette
 2026-02-26,side effect cologne,140,Cologne
+2026-02-21,l occitane eau de toilette,140,eau de toilette
 2026-02-24,orpheon eau de toilette,130,eau de toilette
+2026-02-25,side effect cologne,130,Cologne
 2026-03-20,ycz cologne,130,Cologne
 2026-03-22,nautica voyage eau de toilette,130,eau de toilette
 2026-03-18,idôle eau de parfum,130,Eau de Parfum
-2026-02-25,side effect cologne,130,Cologne
-2026-03-17,ycz cologne,130,Cologne
 2026-02-26,jimmy choo floral eau de toilette,130,eau de toilette
-2026-03-15,lancôme idôle eau de parfum,120,Eau de Parfum
+2026-03-17,ycz cologne,130,Cologne
 2026-03-06,l occitane eau de toilette,120,eau de toilette
+2026-03-15,lancôme idôle eau de parfum,120,Eau de Parfum
 2026-02-27,perfume jasmine plant,120,Perfume
-2026-03-05,l occitane eau de toilette,120,eau de toilette
-2026-02-23,l occitane eau de toilette,120,eau de toilette
-2026-02-27,whats the difference between eau de toilette and eau de parfum,120,eau de toilette
-2026-03-05,hermes terre d'hermes eau de toilette,120,eau de toilette
-2026-03-03,hermes terre d'hermes eau de toilette,120,eau de toilette
-2026-03-21,ycz cologne,120,Cologne
 2026-03-15,idôle eau de parfum,120,Eau de Parfum
+2026-03-21,ycz cologne,120,Cologne
 2026-03-22,ycz cologne,120,Cologne
-2026-02-22,arvella fragrance,110,Fragrance
-2026-02-28,side effect cologne,110,Cologne
-2026-03-22,sol de janeiro body mist,110,Body Mist
+2026-03-03,hermes terre d'hermes eau de toilette,120,eau de toilette
+2026-03-05,hermes terre d'hermes eau de toilette,120,eau de toilette
+2026-02-27,whats the difference between eau de toilette and eau de parfum,120,eau de toilette
+2026-02-23,l occitane eau de toilette,120,eau de toilette
+2026-03-05,l occitane eau de toilette,120,eau de toilette
 2026-02-23,arvella fragrance,110,Fragrance
-2026-03-05,azzaro pour homme eau de toilette,110,eau de toilette
+2026-03-24,sol de janeiro body mist,110,Body Mist
 2026-03-06,coach new york eau de toilette,110,eau de toilette
 2026-02-25,scent and sensibility,110,Scent
 2026-02-24,side effect cologne,110,Cologne
+2026-03-05,azzaro pour homme eau de toilette,110,eau de toilette
 2026-03-07,narciso rodriguez for her eau de toilette,110,eau de toilette
-2026-03-02,hermes terre d'hermes eau de toilette,100,eau de toilette
-2026-02-26,perfume jasmine plant,100,Perfume
-2026-02-24,giorgio armani code men sport eau de toilette spra,100,eau de toilette
-2026-02-20,tresor perfume,100,Perfume
+2026-03-22,sol de janeiro body mist,110,Body Mist
+2026-02-22,arvella fragrance,110,Fragrance
+2026-02-28,side effect cologne,110,Cologne
 2026-02-28,nivea eau de toilette,100,eau de toilette
 2026-03-06,balmain perfume,100,Perfume
 2026-03-17,henry rose perfume,100,Perfume
+2026-02-20,tresor perfume,100,Perfume
 2026-02-19,tresor perfume,100,Perfume
-2026-03-03,coach new york eau de toilette,100,eau de toilette
+2026-02-26,perfume jasmine plant,100,Perfume
+2026-02-24,giorgio armani code men sport eau de toilette spra,100,eau de toilette
+2026-03-02,hermes terre d'hermes eau de toilette,100,eau de toilette
 2026-03-19,idôle eau de parfum,100,Eau de Parfum
-2026-02-25,orpheon eau de toilette,100,eau de toilette
 2026-03-14,vera wang perfume,100,Perfume
-2026-03-15,ycz marine cologne,90,Cologne
-2026-03-02,eros pour femme eau de toilette,90,eau de toilette
-2026-02-22,game of spades cologne,90,Cologne
-2026-02-28,perfume jasmine plant,90,Perfume
-2026-02-21,arvella fragrance,90,Fragrance
-2026-03-14,henry rose perfume,90,Perfume
-2026-02-28,jpg le male eau de toilette,90,eau de toilette
-2026-03-21,chloe nomade perfume,90,Perfume
-2026-03-08,summer fridays perfume,90,Perfume
-2026-03-20,idôle eau de parfum,90,Eau de Parfum
-2026-03-15,henry rose perfume,90,Perfume
-2026-02-22,eau de toilette pronunciation,90,eau de toilette
-2026-03-20,national fragrance day,90,Fragrance
-2026-03-14,prada milano cologne,90,Cologne
+2026-02-25,orpheon eau de toilette,100,eau de toilette
+2026-03-03,coach new york eau de toilette,100,eau de toilette
 2026-02-18,tresor perfume,90,Perfume
+2026-03-21,chloe nomade perfume,90,Perfume
+2026-03-15,henry rose perfume,90,Perfume
+2026-03-14,henry rose perfume,90,Perfume
+2026-03-20,idôle eau de parfum,90,Eau de Parfum
+2026-03-14,prada milano cologne,90,Cologne
+2026-03-20,national fragrance day,90,Fragrance
+2026-02-22,eau de toilette pronunciation,90,eau de toilette
+2026-03-08,summer fridays perfume,90,Perfume
 2026-02-28,narciso rodriguez for her eau de toilette,90,eau de toilette
 2026-03-01,chanel no 5 eau de toilette,90,eau de toilette
 2026-02-22,l occitane eau de toilette,90,eau de toilette
+2026-02-28,perfume jasmine plant,90,Perfume
+2026-02-28,jpg le male eau de toilette,90,eau de toilette
+2026-02-21,arvella fragrance,90,Fragrance
+2026-03-15,ycz marine cologne,90,Cologne
+2026-03-02,eros pour femme eau de toilette,90,eau de toilette
+2026-02-22,game of spades cologne,90,Cologne
+2026-03-20,sol de janeiro,80,Hair mist
+2026-02-22,how to pronounce eau de toilette,80,eau de toilette
+2026-03-20,national fragrance day 2026,80,Fragrance
+2026-03-19,gucci bloom eau de toilette,80,eau de toilette
+2026-03-03,azzaro pour homme eau de toilette,80,eau de toilette
+2026-03-04,hermes terre d'hermes eau de toilette,80,eau de toilette
+2026-03-24,what the fluff perfume,80,Perfume
+2026-03-07,l occitane eau de toilette,80,eau de toilette
+2026-03-04,l occitane eau de toilette,80,eau de toilette
+2026-03-15,mercedes benz eau de toilette,80,eau de toilette
+2026-03-18,lancôme idôle eau de parfum,80,Eau de Parfum
+2026-03-07,hermes terre d'hermes eau de toilette,80,eau de toilette
+2026-03-05,terre d'hermes eau de toilette,80,eau de toilette
 2026-03-06,gucci bloom eau de toilette,80,eau de toilette
 2026-02-23,game of spades cologne,80,Cologne
 2026-03-15,noyz milk de parfum,80,Parfum
-2026-03-08,l occitane eau de toilette,80,eau de toilette
-2026-03-04,hermes terre d'hermes eau de toilette,80,eau de toilette
 2026-02-26,eau de toilette meaning in english,80,eau de toilette
 2026-02-16,mix bar marshmallow creme perfume,80,Perfume
+2026-03-08,l occitane eau de toilette,80,eau de toilette
 2026-03-19,lancôme idôle eau de parfum,80,Eau de Parfum
-2026-03-04,l occitane eau de toilette,80,eau de toilette
-2026-03-03,azzaro pour homme eau de toilette,80,eau de toilette
-2026-03-05,terre d'hermes eau de toilette,80,eau de toilette
-2026-02-22,how to pronounce eau de toilette,80,eau de toilette
-2026-03-18,lancôme idôle eau de parfum,80,Eau de Parfum
-2026-03-07,hermes terre d'hermes eau de toilette,80,eau de toilette
-2026-03-20,sol de janeiro,80,Hair mist
-2026-03-07,l occitane eau de toilette,80,eau de toilette
-2026-03-19,gucci bloom eau de toilette,80,eau de toilette
-2026-03-20,national fragrance day 2026,80,Fragrance
-2026-03-15,mercedes benz eau de toilette,80,eau de toilette
-2026-02-21,smoke and mirrors cologne,70,Cologne
-2026-03-07,coach green eau de toilette,70,eau de toilette
-2026-03-19,idole perfume,70,Perfume
-2026-03-04,terre d'hermes eau de toilette,70,eau de toilette
-2026-03-06,coach blue eau de toilette,70,eau de toilette
-2026-02-26,miu miu fragrance,70,Fragrance
-2026-03-18,idole perfume,70,Perfume
-2026-02-20,arvella fragrance,70,Fragrance
-2026-03-06,perfume genius,70,Perfume
-2026-02-28,whats the difference between eau de toilette and eau de parfum,70,eau de toilette
 2026-03-20,louis vuitton symphony perfume,70,Perfume
+2026-02-28,whats the difference between eau de toilette and eau de parfum,70,eau de toilette
+2026-03-24,jo malone cologne,70,Cologne
 2026-02-23,what the fluff perfume,70,Perfume
-2026-02-26,eau de toilette in english,70,eau de toilette
-2026-02-20,miss dior hair mist,70,Hair mist
-2026-02-24,arvella fragrance,70,Fragrance
-2026-03-01,coach green eau de toilette,70,eau de toilette
-2026-02-21,tresor perfume,70,Perfume
-2026-02-17,cologne sports,70,Cologne
-2026-02-21,eau de toilette pronunciation,70,eau de toilette
-2026-03-07,marc jacobs perfect eau de toilette,70,eau de toilette
+2026-03-06,perfume genius,70,Perfume
 2026-03-07,gucci flora eau de toilette,70,eau de toilette
+2026-02-21,smoke and mirrors cologne,70,Cologne
+2026-03-04,terre d'hermes eau de toilette,70,eau de toilette
+2026-03-19,idole perfume,70,Perfume
+2026-03-07,coach green eau de toilette,70,eau de toilette
+2026-03-06,coach blue eau de toilette,70,eau de toilette
+2026-03-01,coach green eau de toilette,70,eau de toilette
+2026-02-20,miss dior hair mist,70,Hair mist
+2026-02-26,eau de toilette in english,70,eau de toilette
+2026-02-21,tresor perfume,70,Perfume
+2026-03-07,marc jacobs perfect eau de toilette,70,eau de toilette
+2026-02-21,eau de toilette pronunciation,70,eau de toilette
+2026-02-17,cologne sports,70,Cologne
+2026-02-20,arvella fragrance,70,Fragrance
+2026-02-26,miu miu fragrance,70,Fragrance
 2026-03-06,nutrius body mist,70,Body Mist
-2026-02-26,whats the difference between eau de toilette and eau de parfum,60,eau de toilette
-2026-03-22,chanel fragrance store,60,Fragrance
-2026-03-22,fragrance du bois lucius,60,Fragrance
-2026-02-22,what the fluff perfume,60,Perfume
-2026-03-14,fragrance notes,60,Fragrance
+2026-03-18,idole perfume,70,Perfume
+2026-02-24,arvella fragrance,70,Fragrance
 2026-03-01,whats the difference between eau de toilette and eau de parfum,60,eau de toilette
+2026-03-14,fragrance notes,60,Fragrance
+2026-02-22,what the fluff perfume,60,Perfume
 2026-03-20,yves saint laurent perfume,60,Perfume
-2026-02-25,smoke and mirrors cologne,60,Cologne
-2026-03-15,yves saint laurent perfume,60,Perfume
-2026-02-28,spicebomb eau de toilette,60,eau de toilette
-2026-03-05,miu miu perfume,60,Perfume
-2026-02-23,side effect cologne,60,Cologne
-2026-03-22,yves saint laurent,60,Parfum
-2026-03-03,valentino born in roma eau de toilette,60,eau de toilette
-2026-03-04,miu miu perfume,60,Perfume
-2026-03-08,versace bright crystal eau de toilette,60,eau de toilette
+2026-02-26,whats the difference between eau de toilette and eau de parfum,60,eau de toilette
 2026-03-19,louis vuitton symphony perfume,60,Perfume
-2026-03-15,idole perfume,60,Perfume
-2026-02-22,side effect cologne,60,Cologne
-2026-03-15,sephora fragrance sale,60,Fragrance
-2026-03-21,louis vuitton symphony perfume,60,Perfume
-2026-02-28,dolce and gabbana light blue eau de toilette,60,eau de toilette
-2026-03-08,azzaro pour homme eau de toilette,60,eau de toilette
+2026-03-08,versace bright crystal eau de toilette,60,eau de toilette
+2026-03-04,miu miu perfume,60,Perfume
+2026-03-03,valentino born in roma eau de toilette,60,eau de toilette
+2026-03-22,yves saint laurent,60,Parfum
+2026-02-23,side effect cologne,60,Cologne
+2026-03-24,eos cashmere body mist,60,Body Mist
+2026-03-24,prada,60,Parfum
+2026-03-24,prada parfum,60,Parfum
+2026-03-24,versace dylan blue eau de toilette,60,eau de toilette
+2026-02-24,smoke and mirrors cologne,60,Cologne
+2026-02-21,orpheon eau de toilette,60,eau de toilette
+2026-03-18,yves saint laurent perfume,60,Perfume
+2026-03-19,azzaro the most wanted eau de toilette intense,60,eau de toilette
 2026-02-23,eau de toilette translation,60,eau de toilette
 2026-03-04,versace pour homme eau de toilette,60,eau de toilette
 2026-03-03,eros pour femme eau de toilette,60,eau de toilette
 2026-03-07,god of fire cologne,60,Cologne
+2026-02-28,versace l'homme eau de toilette,60,eau de toilette
+2026-03-05,coach green eau de toilette,60,eau de toilette
+2026-03-22,chanel fragrance store,60,Fragrance
+2026-03-22,fragrance du bois lucius,60,Fragrance
 2026-03-06,coach green eau de toilette,60,eau de toilette
 2026-02-25,eau de toilette meaning in english,60,eau de toilette
 2026-02-20,cologne cathedral,60,Cologne
 2026-02-23,eau de toilette in english,60,eau de toilette
-2026-02-28,versace l'homme eau de toilette,60,eau de toilette
-2026-03-05,coach green eau de toilette,60,eau de toilette
-2026-02-24,game of spades cologne,60,Cologne
+2026-02-25,smoke and mirrors cologne,60,Cologne
+2026-03-15,yves saint laurent perfume,60,Perfume
+2026-02-28,spicebomb eau de toilette,60,eau de toilette
+2026-03-05,miu miu perfume,60,Perfume
+2026-03-08,azzaro pour homme eau de toilette,60,eau de toilette
+2026-02-28,dolce and gabbana light blue eau de toilette,60,eau de toilette
+2026-03-21,louis vuitton symphony perfume,60,Perfume
+2026-03-15,sephora fragrance sale,60,Fragrance
+2026-03-01,side effect cologne,60,Cologne
+2026-03-03,narciso rodriguez for her eau de toilette,60,eau de toilette
+2026-03-14,versace eros pour femme eau de toilette,60,eau de toilette
+2026-03-22,louis vuitton symphony perfume,60,Perfume
+2026-02-22,side effect cologne,60,Cologne
+2026-03-15,idole perfume,60,Perfume
+2026-03-19,yves saint laurent perfume,60,Perfume
+2026-02-20,eau de toilette pronunciation,60,eau de toilette
+2026-03-01,mugler perfume,60,Perfume
+2026-03-24,bianco latte perfume,60,Perfume
+2026-03-24,fragrance du bois lucius,60,Fragrance
+2026-03-24,coach fragrance,60,Fragrance
 2026-03-01,hermes terre d'hermes eau de toilette,60,eau de toilette
-2026-03-19,azzaro the most wanted eau de toilette intense,60,eau de toilette
-2026-03-18,yves saint laurent perfume,60,Perfume
-2026-02-21,orpheon eau de toilette,60,eau de toilette
-2026-02-24,smoke and mirrors cologne,60,Cologne
+2026-02-24,game of spades cologne,60,Cologne
+2026-03-04,jean paul gaultier le beau eau de toilette,60,eau de toilette
 2026-03-17,idole perfume,60,Perfume
 2026-03-02,azzaro pour homme eau de toilette,60,eau de toilette
 2026-03-15,eau de toilette pronunciation,60,eau de toilette
-2026-03-01,mugler perfume,60,Perfume
-2026-03-22,louis vuitton symphony perfume,60,Perfume
-2026-03-14,versace eros pour femme eau de toilette,60,eau de toilette
-2026-03-03,narciso rodriguez for her eau de toilette,60,eau de toilette
-2026-03-01,side effect cologne,60,Cologne
-2026-02-20,eau de toilette pronunciation,60,eau de toilette
-2026-03-19,yves saint laurent perfume,60,Perfume
-2026-03-04,jean paul gaultier le beau eau de toilette,60,eau de toilette
-2026-03-22,boss the scent elixir,50,Scent
-2026-03-05,valentino uomo eau de toilette,50,eau de toilette
+2026-03-24,phlur,50,Body Mist
+2026-03-24,scent box,50,Scent
+2026-03-24,eau de parfum,50,Parfum
+2026-03-24,phlur body mist,50,Body Mist
+2026-03-03,whats the difference between eau de toilette and eau de parfum,50,eau de toilette
+2026-02-21,game of spades cologne,50,Cologne
+2026-03-21,yves saint laurent,50,Parfum
+2026-02-19,cologne cathedral,50,Cologne
 2026-03-22,floating fragrance of women chinese drama,50,Fragrance
 2026-02-25,scent synonym,50,Scent
-2026-02-19,cologne cathedral,50,Cologne
-2026-03-21,yves saint laurent,50,Parfum
-2026-03-21,summer fridays perfume,50,Perfume
-2026-02-25,arvella fragrance,50,Fragrance
-2026-02-16,bath and body works,50,Scent
-2026-02-22,whats the difference between eau de toilette and eau de parfum,50,eau de toilette
-2026-03-03,jean paul gaultier le beau eau de toilette,50,eau de toilette
-2026-02-16,women's fragrance,50,Fragrance
-2026-02-27,miu miu fragrance,50,Fragrance
-2026-03-15,azzaro the most wanted eau de toilette intense,50,eau de toilette
+2026-03-05,valentino uomo eau de toilette,50,eau de toilette
+2026-03-22,boss the scent elixir,50,Scent
+2026-03-18,summer fridays perfume,50,Perfume
 2026-02-16,perfume movie,50,Perfume
+2026-02-27,miu miu fragrance,50,Fragrance
+2026-02-16,women's fragrance,50,Fragrance
+2026-03-03,jean paul gaultier le beau eau de toilette,50,eau de toilette
+2026-02-22,whats the difference between eau de toilette and eau de parfum,50,eau de toilette
+2026-02-16,bath and body works,50,Scent
+2026-02-25,arvella fragrance,50,Fragrance
+2026-03-21,summer fridays perfume,50,Perfume
+2026-03-15,azzaro the most wanted eau de toilette intense,50,eau de toilette
+2026-03-01,jean paul gaultier le beau eau de toilette,50,eau de toilette
+2026-02-27,dolce and gabbana light blue eau de toilette,50,eau de toilette
+2026-03-03,eau de toilette vs eau de perfume,50,eau de toilette
+2026-03-02,coach new york eau de toilette,50,eau de toilette
+2026-03-06,valentino uomo eau de toilette,50,eau de toilette
+2026-03-08,legend eau de toilette,50,eau de toilette
+2026-02-22,burberry fragrance for him,50,Fragrance
+2026-03-01,versace pour homme eau de toilette,50,eau de toilette
+2026-03-02,valentino born in roma eau de toilette,50,eau de toilette
+2026-03-08,montblanc legend eau de toilette,50,eau de toilette
 2026-03-02,narciso rodriguez for her eau de toilette,50,eau de toilette
 2026-03-20,summer fridays perfume,50,Perfume
 2026-03-06,valentino uomo born in roma eau de toilette,50,eau de toilette
@@ -256,25 +290,25 @@ date,trend_name,growth_score,seed_term
 2026-03-20,lucius fragrance du bois,50,Fragrance
 2026-03-19,summer fridays perfume,50,Perfume
 2026-03-06,jadore perfume,50,Perfume
-2026-03-03,whats the difference between eau de toilette and eau de parfum,50,eau de toilette
-2026-02-21,game of spades cologne,50,Cologne
-2026-03-18,summer fridays perfume,50,Perfume
-2026-03-14,orpheon eau de toilette,50,eau de toilette
-2026-02-28,eau de toilette translation,50,eau de toilette
-2026-02-22,rouge avenue perfume,50,Perfume
-2026-02-21,invictus paco rabanne eau de toilette,50,eau de toilette
-2026-02-20,burberry her eau de toilette,50,eau de toilette
 2026-03-05,jadore perfume,50,Perfume
-2026-03-01,jean paul gaultier le beau eau de toilette,50,eau de toilette
-2026-02-27,dolce and gabbana light blue eau de toilette,50,eau de toilette
-2026-03-03,eau de toilette vs eau de perfume,50,eau de toilette
-2026-03-02,coach new york eau de toilette,50,eau de toilette
-2026-03-06,valentino uomo eau de toilette,50,eau de toilette
-2026-03-08,legend eau de toilette,50,eau de toilette
-2026-02-22,burberry fragrance for him,50,Fragrance
-2026-03-01,versace pour homme eau de toilette,50,eau de toilette
-2026-03-02,valentino born in roma eau de toilette,50,eau de toilette
-2026-03-08,montblanc legend eau de toilette,50,eau de toilette
+2026-02-23,how to pronounce eau de toilette,50,eau de toilette
+2026-02-20,burberry her eau de toilette,50,eau de toilette
+2026-02-21,invictus paco rabanne eau de toilette,50,eau de toilette
+2026-02-22,rouge avenue perfume,50,Perfume
+2026-02-28,eau de toilette translation,50,eau de toilette
+2026-03-14,orpheon eau de toilette,50,eau de toilette
+2026-02-19,arvella fragrance,50,Fragrance
+2026-02-18,perfume movie,50,Perfume
+2026-02-20,burberry hero eau de toilette,50,eau de toilette
+2026-03-07,azzaro pour homme eau de toilette,50,eau de toilette
+2026-02-22,cologne cathedral,50,Cologne
+2026-03-07,jean paul gaultier le male eau de toilette,50,eau de toilette
+2026-03-04,valentino uomo eau de toilette,50,eau de toilette
+2026-03-02,versace pour homme eau de toilette,50,eau de toilette
+2026-03-15,paco rabanne invictus eau de toilette,50,eau de toilette
+2026-02-28,l occitane eau de toilette,50,eau de toilette
+2026-03-01,dolce and gabbana light blue eau de toilette,50,eau de toilette
+2026-03-04,febreze plug scent booster,50,Scent
 2026-03-05,versace pour homme eau de toilette,50,eau de toilette
 2026-03-03,versace pour homme eau de toilette,50,eau de toilette
 2026-02-28,acqua di gio profumo,50,Parfum
@@ -288,41 +322,19 @@ date,trend_name,growth_score,seed_term
 2026-03-02,ouai st barts hair and body mist,50,Body Mist
 2026-03-03,eau de toilette vs perfume,50,eau de toilette
 2026-03-01,louis vuitton imagination,50,Fragrance
-2026-02-23,how to pronounce eau de toilette,50,eau de toilette
-2026-02-18,perfume movie,50,Perfume
-2026-02-19,arvella fragrance,50,Fragrance
-2026-02-23,eau de toilette vanille,50,eau de toilette
+2026-03-24,fragrance day,50,Fragrance
+2026-03-24,ffern perfume,50,Perfume
+2026-03-03,valentino eau de toilette,50,eau de toilette
 2026-03-04,narciso rodriguez for her eau de toilette,50,eau de toilette
 2026-03-04,gucci bloom eau de toilette,50,eau de toilette
-2026-03-03,valentino eau de toilette,50,eau de toilette
-2026-02-20,burberry hero eau de toilette,50,eau de toilette
-2026-03-07,azzaro pour homme eau de toilette,50,eau de toilette
-2026-02-22,cologne cathedral,50,Cologne
-2026-03-07,jean paul gaultier le male eau de toilette,50,eau de toilette
-2026-03-04,valentino uomo eau de toilette,50,eau de toilette
-2026-03-02,versace pour homme eau de toilette,50,eau de toilette
-2026-03-15,paco rabanne invictus eau de toilette,50,eau de toilette
-2026-02-28,l occitane eau de toilette,50,eau de toilette
-2026-03-01,dolce and gabbana light blue eau de toilette,50,eau de toilette
-2026-03-04,febreze plug scent booster,50,Scent
-2026-03-22,prada parfum,40,Parfum
-2026-03-03,coach blue eau de toilette,40,eau de toilette
-2026-02-20,game of spades cologne,40,Cologne
-2026-03-21,lore fragrance,40,Fragrance
-2026-02-24,eau de toilette in english,40,eau de toilette
-2026-02-26,arvella fragrance,40,Fragrance
-2026-03-04,eau de toilette vs eau de perfume,40,eau de toilette
-2026-03-19,noyz milk de parfum,40,Parfum
-2026-03-04,chrome azzaro eau de toilette,40,eau de toilette
-2026-03-07,azzaro the most wanted eau de toilette intense,40,eau de toilette
-2026-03-04,versace man eau fraiche eau de toilette,40,eau de toilette
-2026-03-08,jimmy choo man eau de toilette,40,eau de toilette
-2026-02-27,gucci guilty pour homme eau de toilette,40,eau de toilette
-2026-03-19,le beau eau de toilette,40,eau de toilette
-2026-03-20,phlur vanilla skin,40,Body Mist
-2026-03-03,terre d'hermes eau de toilette,40,eau de toilette
-2026-03-19,best fragrance discounters,40,Fragrance
-2026-02-25,eau de toilette in english,40,eau de toilette
+2026-02-23,eau de toilette vanille,50,eau de toilette
+2026-03-24,bright crystal versace eau de toilette,50,eau de toilette
+2026-03-24,fragrance free shampoo,50,Fragrance
+2026-03-24,acqua di gio eau de toilette,50,eau de toilette
+2026-03-24,gaultier le beau eau de toilette,40,eau de toilette
+2026-03-01,narciso rodriguez for her eau de toilette,40,eau de toilette
+2026-03-03,burberry for men eau de toilette,40,eau de toilette
+2026-03-24,skylar perfume,40,Perfume
 2026-03-17,kitsch hair perfume,40,Perfume
 2026-03-08,eau de toilette vs eau de perfume,40,eau de toilette
 2026-02-26,eau de toilette translation,40,eau de toilette
@@ -355,7 +367,24 @@ date,trend_name,growth_score,seed_term
 2026-02-16,ulta,40,Cologne
 2026-03-02,louis vuitton imagination,40,Fragrance
 2026-02-25,whats the difference between eau de toilette and eau de parfum,40,eau de toilette
+2026-02-20,game of spades cologne,40,Cologne
+2026-03-21,lore fragrance,40,Fragrance
+2026-02-24,eau de toilette in english,40,eau de toilette
+2026-02-26,arvella fragrance,40,Fragrance
+2026-03-04,eau de toilette vs eau de perfume,40,eau de toilette
+2026-03-19,noyz milk de parfum,40,Parfum
+2026-03-04,chrome azzaro eau de toilette,40,eau de toilette
+2026-03-07,azzaro the most wanted eau de toilette intense,40,eau de toilette
+2026-03-04,versace man eau fraiche eau de toilette,40,eau de toilette
+2026-03-08,jimmy choo man eau de toilette,40,eau de toilette
+2026-02-27,gucci guilty pour homme eau de toilette,40,eau de toilette
+2026-03-19,le beau eau de toilette,40,eau de toilette
+2026-03-20,phlur vanilla skin,40,Body Mist
+2026-03-03,terre d'hermes eau de toilette,40,eau de toilette
+2026-03-19,best fragrance discounters,40,Fragrance
+2026-02-25,eau de toilette in english,40,eau de toilette
+2026-03-22,prada parfum,40,Parfum
+2026-03-03,coach blue eau de toilette,40,eau de toilette
 2026-03-06,hermes terre d'hermes eau de toilette,40,eau de toilette
 2026-03-06,fragrance neveah,40,Fragrance
-2026-03-01,narciso rodriguez for her eau de toilette,40,eau de toilette
-2026-03-03,burberry for men eau de toilette,40,eau de toilette
+2026-03-24,scent air,40,Scent
